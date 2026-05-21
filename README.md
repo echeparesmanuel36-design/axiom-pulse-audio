@@ -1,4 +1,4 @@
-# Axiom Pulse Audio
+# Axiom Pulse Audio ◤A-S◢
 
 Axiom Pulse Audio is a high-performance, deterministic Digital Signal Processing (DSP) and analog-modeled virtualization engine engineered in pure native Rust under `#![no_std]`. Designed specifically for live streams, vocal tracking, and instrument monitoring, Pulse Audio bypasses standard high-level operating system audio servers (ALSA, PulseAudio, Android AudioFlinger, CoreAudio) to communicate directly with hardware DMA registers.
 
